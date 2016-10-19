@@ -1,0 +1,65 @@
+<toolSet name="PHP">
+  <tool name="PHPDocumentor2 Win7 UwAmp" description="Create Documentation" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\..\phpdoc\bin\phpdoc run -d &quot;$ProjectFileDir$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor2b7 UwAmp" description="Create Documentation" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\..\phpDocumentor2\bin\phpdoc.php run -d &quot;$ProjectFileDir$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor2b7 UwAmp2" description="Create Documentation" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$PhpExecutable$/../PEAR/phpDocumentor/bin/phpdoc.php run -d &quot;$ProjectFileDir$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor Win7" description="Create Documentation" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\xampp\php\php.exe" />
+      <option name="PARAMETERS" value=" -d include_path=&quot;C:\xampp\php\PEAR&quot; C:\xampp\php\phpdoc -c &quot;$ProjectFileDir$&quot;\phpdoc.ini" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor CLI" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="phpdoc.bat -d &quot;$ProjectFileDir$&quot; -t &quot;$ProjectFileDir$\..\$ProjectName$-docs&quot; -o HTML:Smarty:default" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp/htdocs/pear/PHPDocumentor" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor.bat" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="phpdoc.bat -d &quot;$ProjectFileDir$&quot; -t &quot;$ProjectFileDir$\..\expdocs&quot; -o HTML:Smarty:PHP" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp/php/" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor2 Win7 UwAmp2" description="Create Documentation" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\..\phpdoc\bin\phpdoc -config &quot;$ProjectFileDir$\phpdoc.xml&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor2 Win7 UwAmp3" description="Create Documentation" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\..\phpdoc\bin\phpdoc.php run -d &quot;$ProjectFileDir$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="PHPDocumentor2 Win7 UwAmp PHAR" description="Create Documentation" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\..\phpDocumentor.phar run -d &quot;$ProjectFileDir$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

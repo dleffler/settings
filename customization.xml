@@ -1,0 +1,74 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="VcsToobarActions" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XdebugAnalyzeProfilerSnapshotAction" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VcsToobarActions" is_group="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_PHP_PHPDocumentor2 Win7 UwAmp PHAR" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Tool_PHP_PHPDocumentor2 Win7 UwAmp" icon="I:/Users/Dave/Desktop/icons/fatcow-hosting-icons-1700/fatcow-hosting-icons-1700/16x16/document_prepare.png" />
+    <action id="XdebugAnalyzeProfilerSnapshotAction" icon="I:/Users/Dave/Desktop/icons/fatcow-hosting-icons-1700/fatcow-hosting-icons-1700/16x16/profiles.png" />
+    <action id="Tool_PHP_PHPDocumentor Win7" />
+    <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="I:/Users/Dave/Desktop/icons/tango-icon-theme-0.8.90/tango-icon-theme-0.8.90/16x16/apps/utilities-terminal.png" />
+    <action id="Tool_Server_XAMPP Control Panel" icon="C:/xampp/xampp.png" />
+    <action id="Tool_Server_XAMPP Restart" icon="C:/Program Files (x86)/JetBrains/xamp-restart.png" />
+    <action id="Tool_PHP_PHPDocumentor2 Win7 UwAmp PHAR" icon="I:/Users/Dave/Desktop/icons/fatcow-hosting-icons-1700/fatcow-hosting-icons-1700/16x16/document_prepare.png" />
+  </component>
+  <component name="com.intellij.ide.ui.customization.CustomizableActionsSchemas">
+    <group value="Git.Checkout" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_Server_XAMPP Control Panel" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_Server_XAMPP Restart" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Stash" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Unstash" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Tool_Server_XAMPP Restart" icon="C:/Program Files (x86)/JetBrains/xamp-restart.png" />
+    <action id="Git.Checkout" icon="C:/Program Files (x86)/JetBrains/arrow_branch.png" />
+    <action id="Git.Stash" icon="C:/Program Files (x86)/JetBrains/back.png" />
+    <action id="Tool_Server_XAMPP Control Panel" icon="C:/xampp/xampp.png" />
+    <action id="Git.Unstash" icon="C:/Program Files (x86)/JetBrains/forward.png" />
+  </component>
+</application>

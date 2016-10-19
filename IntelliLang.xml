@@ -1,0 +1,21 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="CSS" injector-id="smarty">
+      <display-name>Smarty CSS</display-name>
+      <place><![CDATA[smartyLiteralTagWithParent("css")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="smarty">
+      <display-name>Smarty Capture</display-name>
+      <place><![CDATA[smartyLiteralTagWithParent("capture")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="smarty">
+      <display-name>Smarty Script</display-name>
+      <place><![CDATA[smartyLiteralTagWithParent("script")]]></place>
+    </injection>
+  </component>
+</application>

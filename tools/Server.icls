@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolSet name="Server">
+  <tool name="XAMPP Control Panel" description="Main Server Control Panel" showInMainMenu="true" showInEditor="false" showInProject="true" showInSearchPopup="false" disabled="true" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\xampp\xampp-control-3-beta10.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp" />
+    </exec>
+  </tool>
+  <tool name="XAMPP Restart" description="Restart (Start) Servers on localhost" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\xampp\xampp_restart.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp" />
+    </exec>
+  </tool>
+  <tool name="Start Web Server" description="Start Apache Server for localhost" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\xampp\apache_start.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp" />
+    </exec>
+  </tool>
+  <tool name="Stop Web Server" description="Stop Apache Server on localhost" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\xampp\apache_stop.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp" />
+    </exec>
+  </tool>
+  <tool name="Start MySQL Server" description="Start MySQL Server on localhost" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\xampp\mysql_start.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp" />
+    </exec>
+  </tool>
+  <tool name="Stop MySQL Server" description="Stop MySQL Server on localhost" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\xampp\mysql_stop.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/xampp" />
+    </exec>
+  </tool>
+</toolSet>
+

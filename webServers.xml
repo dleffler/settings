@@ -1,0 +1,116 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2c6873e9-012f-4d65-b3e4-3b39e9efde89" name="htdocs-local" url="http://localhost/">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="6f934e9c-a65b-4094-b364-1dfd2fa70a13" name="Exponent Docs" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="80a1e558-dd48-4a4c-979a-91de8fa9fcf2" name="Exponent-Docs" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="82709faf-a69b-4211-8d79-66e6dba423b7" name="expdocs-local" url="http://localhost/">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="380e3b9a-4148-4e6c-a009-d43dfeee2843" name="UwAmp-test" url="http://localhost/">
+        <fileTransfer mountedRoot="C:\uWAMP\www" accessType="MOUNT" />
+      </webServer>
+      <webServer id="7e02b397-2a88-423c-ad51-d529f2e354ba" name="UwAmp" url="http://localhost/">
+        <fileTransfer mountedRoot="C:\uWAMP\www" accessType="MOUNT" />
+      </webServer>
+      <webServer id="8aea3445-625e-4908-8663-3e866f29180c" name="UwAmp-sample" url="http://localhost/">
+        <fileTransfer mountedRoot="C:\uWAMP\www" accessType="MOUNT" />
+      </webServer>
+      <webServer id="1a42aa4f-abd7-412f-bf81-4d379d7dff02" name="HHBC SSH" url="http://harrisonhills.org">
+        <fileTransfer host="harrisonhills.org" port="22" rootFolder="/home/hhbc/harrisonhills.org/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3410237d-2773-43fa-8a5b-c8a2bcee40d4" name="Exponent SSH" url="http://exponentcms.org">
+        <fileTransfer host="exponentcms.org" port="22" privateKey="O:\Users\Dave\.ssh\id_rsa" rootFolder="/home/exponent" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1cc8c82f-6846-495f-83a6-2555290601c2" name="SEIBA SSH" url="http://seindianabaptist.org">
+        <fileTransfer host="seindianabaptist.org" port="22" rootFolder="/home/seiba/seindianabaptist.org/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ddb73529-36e7-449b-9674-5504e4f0f585" name="UwAmp-smfa" url="http://localhost/">
+        <fileTransfer mountedRoot="C:\uWAMP\www" accessType="MOUNT" />
+      </webServer>
+      <webServer id="56254367-aa2d-4d9e-be00-61f1c8cdbf5e" name="LightTPD" url="http://localhost">
+        <fileTransfer mountedRoot="C:\WLMP\HTDOCS" accessType="MOUNT" />
+      </webServer>
+      <webServer id="b01c94ec-8e11-4999-994d-4f53fd7b9c46" name="Drupal" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="79262d1e-72d8-4690-b454-8369eded8c8a" name="ugrs" url="http://localhost/ugrs">
+        <fileTransfer port="0" mountedRoot="K:\UwAmp\www\ugrs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="b2cc7a26-07d2-456d-8838-bcb69458db82" name="UwAmp exp2" url="http://localhost/exp2">
+        <fileTransfer port="0" mountedRoot="K:\uWAMP\www\exp2" accessType="MOUNT" />
+      </webServer>
+      <webServer id="ab81fe56-89c6-469b-9bb0-5d15d2f09b6c" name="Ironaway" url="http://localhost/ironaway">
+        <fileTransfer mountedRoot="K:\UwAmp\www\ironaway" accessType="MOUNT" />
+      </webServer>
+      <webServer id="f3c7edec-b858-4192-8ebd-67353921e72a" name="CosmoFinger" url="http://localhost/cosmofin">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ee6c26c3-03f0-4c39-a7d2-d7d79b022b8a" name="Pool Supply Warehouse" url="http://localhost/poolsupplywarehousenew">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="930c562f-1de4-4243-a376-26f4b2fb2139" name="Millwork" url="http://localhost/millwork">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7f2750e3-186d-4862-a953-761597693505" name="uwamp sbdc" url="http://localhost/sbdc">
+        <fileTransfer mountedRoot="K:\uWAMP\www\sbdc" accessType="MOUNT" />
+      </webServer>
+      <webServer id="b9aab013-bcee-49e4-8c92-d75795ee357d" name="OIC SSH" url="http://clients.oicgroup.net">
+        <fileTransfer host="clients.oicgroup.net" port="22" privateKey="O:\Users\Dave\.ssh\id_rsa" rootFolder="/home/oiclient/public_html/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="65ce031f-b931-4644-bec9-fe66d3aec95f" name="Ironaway (1)" url="http://localhost/ironaway">
+        <fileTransfer mountedRoot="K:\UwAmp\www\ironaway" accessType="MOUNT" />
+      </webServer>
+      <webServer id="2dea5f2c-1298-47f0-8bd7-2d9345237021" name="Woodwork" url="http://localhost/woodwork">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9bbf0ae1-5ca3-4f88-a23f-e05c41be7831" name="WW" url="http://localhost/ww">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="fce07e1f-2e4f-44f6-b168-573ed5146bc2" name="pekin" url="http://localhost/pekin">
+        <fileTransfer mountedRoot="K:\UwAmp\www\pekin" accessType="MOUNT" />
+      </webServer>
+      <webServer id="ae41cbde-f5ea-4c9f-a17f-4bde9e088999" name="server-bliss" url="http://localhost/germanbliss">
+        <fileTransfer mountedRoot="K:\UwAmp\www\germanbliss" accessType="MOUNT" />
+      </webServer>
+      <webServer id="e01a598d-6976-4d0d-b585-fdc4c6442acb" name="iLess" url="http://localhost/iless">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2f9ae678-4379-45ba-9a61-8ffa341b48d5" name="sundbergfh" url="http://localhost/sundbergfh">
+        <fileTransfer mountedRoot="K:\UwAmp\www\sundbergfh" accessType="MOUNT" />
+      </webServer>
+      <webServer id="0b418903-0f0d-4ee3-bbd9-c6bbac174558" name="MUS" url="http://localhost/mus">
+        <fileTransfer port="0" mountedRoot="K:\uWAMP\www\mus" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABkOwox4MjhO7TaOHak9FP6w6p7v3QOh/pjj5gRkDQkk6AgEV8rGQ9J4WMk7P46YC1JJTiMrxVmJ1nZML9nyX+YMM0rc+sA3p4iirJKYhhG+x0sS4qFpkf6tGjjCeCy/sKON1GENLdR4bP+0zE29qVGOOf5502XpPp3KoBK7MHiKbRCyhWtKNcEavf6jLGbu/PC/79buhlBp22aYz+jbGFmwa8f8wke6aAHix8T2LdETQRhQSCjWsFSblcn32tFv+HcexmJNhjerK/kfpcvLypPiZ2JvfpmN4JDq7H/5mMT1FxJVJ03fDDs8bTptXkk34wCWsxV3W5fFIEJzfs57XWjTnLRl27EmJmwH3a04ZZgque/YLbLWvbQZRuEDxquWc6WQqGkwpxEOBDP1kDTOxpiKGRzhTch5X1tShQPc8DovkjWAg4asIUd0tv7SyapB2TxVKd5QUcBCeJEuDzOcqSZAzLnGi1/C/VssUI2ElhbhkF07CguHGMvVMZxA13ANBgLVrmZl2CydKRhCjZOQ6/sKYPCeUizBoRwr+mpGd7aWdo</data>
+  </component>
+</application>
