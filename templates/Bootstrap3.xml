@@ -1,20 +1,20 @@
 <templateSet group="Bootstrap3">
   <template name="bs3-cdn:css" value="&lt;!-- Latest compiled and minified CSS --&gt;&#10;&lt;link rel=&quot;stylesheet&quot; href=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css&quot;&gt;$END$" description="Bootstrap 3 CSS CDN" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="GSP" value="true" />
     </context>
   </template>
   <template name="bs3-cdn:js" value="&lt;!-- Latest compiled and minified JS --&gt;&#10;&lt;script src=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;$END$" description="Bootstrap 3 JavaScript CDN" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="GSP" value="true" />
     </context>
   </template>
   <template name="bs3-cdn" value="&lt;!-- Latest compiled and minified CSS &amp; JS --&gt;&#10;&lt;link rel=&quot;stylesheet&quot; media=&quot;screen&quot; href=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css&quot;&gt;&#10;&lt;script src=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;$END$" description="Bootstrap 3 CSS &amp; JS CDN" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="GSP" value="true" />
     </context>
   </template>
   <template name="bs3-template:html5" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;$var1$&quot;&gt;&#10;&#9;&lt;head&gt;&#10;&#9;&#9;&lt;title&gt;$var2$&lt;/title&gt;&#10;&#9;&#9;&lt;meta charset=&quot;UTF-8&quot;&gt;&#10;&#9;&#9;&lt;meta name=description content=&quot;&quot;&gt;&#10;&#9;&#9;&lt;meta name=viewport content=&quot;width=device-width, initial-scale=1&quot;&gt;&#10;&#9;&#9;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;&#10;&#9;&#9;&lt;!-- Bootstrap CSS --&gt;&#10;&#9;&#9;&lt;link href=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot; media=&quot;screen&quot;&gt;&#10;&#9;&lt;/head&gt;&#10;&#9;&lt;body&gt;&#10;&#9;&#9;&lt;h1 class=&quot;text-center&quot;&gt;$var3$}&lt;/h1&gt;&#10;&#10;&#9;&#9;&lt;!-- jQuery --&gt;&#10;&#9;&#9;&lt;script src=&quot;//code.jquery.com/jquery.js&quot;&gt;&lt;/script&gt;&#10;&#9;&#9;&lt;!-- Bootstrap JavaScript --&gt;&#10;&#9;&#9;&lt;script src=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&#10;&#9;&lt;/body&gt;&#10;&lt;/html&gt;$END$" description="Bootstrap 3 HTML5 Template" toReformat="false" toShortenFQNames="true">
@@ -22,8 +22,8 @@
     <variable name="var2" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="var3" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="GSP" value="true" />
     </context>
   </template>
 </templateSet>
