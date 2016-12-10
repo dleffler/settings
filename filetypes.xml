@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="htc" type="JavaScript" />
       <mapping ext="csv" type="Native" />
+      <mapping ext="php-dist" type="PHP" />
       <mapping ext="config" type="Smarty" />
     </extensionMap>
   </component>
