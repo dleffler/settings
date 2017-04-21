@@ -108,6 +108,9 @@
       <webServer id="0b418903-0f0d-4ee3-bbd9-c6bbac174558" name="MUS" url="http://localhost/mus">
         <fileTransfer port="0" mountedRoot="K:\uWAMP\www\mus" accessType="MOUNT" />
       </webServer>
+      <webServer id="d5dc2eea-9fee-4f7c-b4e3-9ab7cea58e8c" name="Grace Church" url="http://localhost/gracechurch">
+        <fileTransfer port="0" mountedRoot="K:\uWAMP\www\gracechurch" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
