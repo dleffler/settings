@@ -20,16 +20,17 @@
       <interpreter home="K:\UwAmp\bin\php\php-5.5.38\php.exe" id="8072e374-f409-4cde-9d56-e3b8e7328929" name="Win7 UwAmp 5.5" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\UwAmp\bin\php\php-5.4.6\php.exe" id="0663faea-a667-417e-bbff-da31a90234d5" name="Win7 UwAmp 5.4.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="K:\UwAmp\bin\php\php-5.6.30\php.exe" id="5e7e9660-5e27-445c-9dca-a904d035b3fc" name="Win7 UwAmp 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="K:\UwAmp\bin\php\php-7.0.19\php.exe" id="74f3e65a-7825-44ab-803a-e7a18a18e70e" name="Win7 UwAmp 7.0" debugger_id="php.debugger.XDebug" />
-      <interpreter home="K:\UwAmp\bin\php\php-7.1.5\php.exe" id="ffd54e1a-ff9f-43b0-9554-41f17ba458ed" name="Win7 UwAmp 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="K:\UwAmp\bin\php\php-7.0.20\php.exe" id="74f3e65a-7825-44ab-803a-e7a18a18e70e" name="Win7 UwAmp 7.0" debugger_id="php.debugger.XDebug" />
+      <interpreter home="K:\UwAmp\bin\php\php-7.1.6\php.exe" id="ffd54e1a-ff9f-43b0-9554-41f17ba458ed" name="Win7 UwAmp 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="K:\UwAmp\bin\php\php-7.2.0alpha1\php.exe" id="eb64333b-4db6-424b-80d6-107dc2bab647" name="Win7 UwAmp 7.2" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Win7 UwAmp 7.0">
-        <phpinfo binary_type="PHP" php_cgi="K:\UwAmp\bin\php\php-7.0.19\php-cgi.exe" php_cli="K:\UwAmp\bin\php\php-7.0.19\php.exe" path_separator=";" version="7.0.19">
+        <phpinfo binary_type="PHP" php_cgi="K:\UwAmp\bin\php\php-7.0.20\php-cgi.exe" php_cli="K:\UwAmp\bin\php\php-7.0.20\php.exe" path_separator=";" version="7.0.20">
           <additional_php_ini />
-          <configuration_file>K:\UwAmp\bin\php\php-7.0.19\php.ini</configuration_file>
+          <configuration_file>K:\UwAmp\bin\php\php-7.0.20\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -693,9 +694,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Win7 UwAmp 7.1">
-        <phpinfo binary_type="PHP" php_cgi="K:\UwAmp\bin\php\php-7.1.5\php-cgi.exe" php_cli="K:\UwAmp\bin\php\php-7.1.5\php.exe" path_separator=";" version="7.1.5">
+        <phpinfo binary_type="PHP" php_cgi="K:\UwAmp\bin\php\php-7.1.6\php-cgi.exe" php_cli="K:\UwAmp\bin\php\php-7.1.6\php.exe" path_separator=";" version="7.1.6">
           <additional_php_ini />
-          <configuration_file>K:\UwAmp\bin\php\php-7.1.5\php.ini</configuration_file>
+          <configuration_file>K:\UwAmp\bin\php\php-7.1.6\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -1674,7 +1675,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.3">
+            <debugger_info debugger="xdebug" debugger_version="2.5.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
