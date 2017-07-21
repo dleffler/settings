@@ -7,9 +7,18 @@
         <option value="scratch&amp;2.txt" />
         <option value="scratch&amp;3.xml" />
         <option value="scratch&amp;4.xml" />
+        <option value="scratch.js" />
+        <option value="scratch.xml" />
+        <option value="scratch.html" />
+        <option value="scratch_1.xml" />
+        <option value="scratch_2.xml" />
+        <option value="scratch_3.xml" />
+        <option value="scratch_4.xml" />
+        <option value="scratch_1.html" />
+        <option value="scratch_2.html" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="scratch&amp;4.xml" />
-    <option name="needMigration" value="false" />
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
