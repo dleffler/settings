@@ -1,14 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project" />
     <option name="defaultScopeName" value="Project" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,7 +24,6 @@
       <mask>*.js</mask>
       <mask>*.less</mask>
       <mask>*.bootstrap3.tpl</mask>
-      <mask>*.php</mask>
       <mask>*.tpl,*.php</mask>
       <mask>*.less,*.css</mask>
       <mask>*</mask>
@@ -32,6 +32,7 @@
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
       <mask>*.tpl, *.config</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
