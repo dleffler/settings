@@ -28,8 +28,8 @@
       <mask>*.t</mask>
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
-      <mask>*.tpl, *.config</mask>
       <mask>*.php</mask>
+      <mask>*.tpl, *.config</mask>
     </recentFileMasks>
   </component>
 </application>
