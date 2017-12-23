@@ -1,7 +1,14 @@
 <scheme name="Solarized Light" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="FONT_SCALE" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
@@ -16,7 +23,6 @@
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -45,7 +51,6 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value />
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value />
     </option>
@@ -176,7 +181,6 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -229,7 +233,6 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value />
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="JS.DOC_TAG">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -498,7 +501,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd3800" />
