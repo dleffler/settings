@@ -1,11 +1,27 @@
 <scheme name="Dave 2016" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2016-12-15T09:41:08</property>
+    <property name="modified">2017-12-23T09:41:12</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fffec9" />
   </colors>
@@ -138,7 +154,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fffbfb" />
+        <option name="BACKGROUND" value="fff5f0" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
