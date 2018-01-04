@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.css *.less</mask>
@@ -36,8 +37,8 @@
       <mask>*.php,*.tpl,*.conf</mask>
       <mask>*.php,*.tpl,*.confi</mask>
       <mask>*.php,*.tpl,*.config</mask>
-      <mask>*.php</mask>
       <mask>*.bootstrap3.tpl</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
