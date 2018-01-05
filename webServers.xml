@@ -111,6 +111,9 @@
       <webServer id="d5dc2eea-9fee-4f7c-b4e3-9ab7cea58e8c" name="Grace Church" url="http://localhost/gracechurch">
         <fileTransfer port="0" mountedRoot="K:\uWAMP\www\gracechurch" accessType="MOUNT" />
       </webServer>
+      <webServer id="e0ae757d-839c-42e3-958d-9ff24f14f1a7" name="gb2017" url="http://localhost/gb17">
+        <fileTransfer port="0" mountedRoot="K:\UwAmp\www\gb17" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
