@@ -13,7 +13,6 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping ext="htc" type="JavaScript" />
-      <mapping ext="csv" type="Native" />
       <mapping ext="php-dist" type="PHP" />
       <mapping ext="config" type="Smarty" />
     </extensionMap>
