@@ -114,7 +114,7 @@
       <webServer id="e0ae757d-839c-42e3-958d-9ff24f14f1a7" name="gb2017" url="http://localhost/gb17">
         <fileTransfer port="0" mountedRoot="K:\UwAmp\www\gb17" accessType="MOUNT" />
       </webServer>
-      <webServer id="86f1dade-857d-4fb8-b3a1-e51b84ee80cd" name="space" url="http://localhost">
+      <webServer id="86f1dade-857d-4fb8-b3a1-e51b84ee80cd" name="space" url="http://localhost/space">
         <fileTransfer port="0" mountedRoot="K:\UwAmp\www\space" accessType="MOUNT" />
       </webServer>
     </option>
