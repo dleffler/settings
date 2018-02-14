@@ -117,6 +117,9 @@
       <webServer id="86f1dade-857d-4fb8-b3a1-e51b84ee80cd" name="space" url="http://localhost/space">
         <fileTransfer port="0" mountedRoot="K:\UwAmp\www\space" accessType="MOUNT" />
       </webServer>
+      <webServer id="707df83e-c41a-4c83-b51e-8a886b28c3c8" name="uipublish2" url="http://localhost/hhbc-gel/admin/uipublish2">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
