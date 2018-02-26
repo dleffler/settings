@@ -5,11 +5,11 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.css *.less</mask>
       <mask>*.css, *.less</mask>
       <mask>*.js</mask>
-      <mask>*.less</mask>
       <mask>*.tpl,*.php</mask>
       <mask>*.less,*.css</mask>
       <mask>*.t</mask>
@@ -36,6 +36,7 @@
       <mask>*.bootstrap3.tpl</mask>
       <mask>*.php</mask>
       <mask>*.config</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
