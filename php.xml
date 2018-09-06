@@ -1,13 +1,15 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
-      <MessDetectorConfiguration tool_path="K:\UwAmp\bin\php\php-5.5.26\phpmd.bat" />
+      <MessDetectorConfiguration tool_path="K:/UwAmp/bin/php/php-5.5.26/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration tool_path="K:\UwAmp\bin\php\php-5.5.26\phpcs.bat" />
+      <PhpCSConfiguration tool_path="K:/UwAmp/bin/php/php-5.5.26/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
