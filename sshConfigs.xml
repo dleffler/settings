@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="harrisonhills.org" id="eca333c9-fa28-495d-a344-b34d2c45b0c8" port="22" customName="HHBC SSH" nameFormat="CUSTOM" username="hhbc" />
+      <sshConfig host="exponentcms.org" id="21e5bc49-02e2-48ac-ae71-080e8ad5f554" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="Exponent SSH" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="seindianabaptist.org" id="ed6122f7-fe7d-47bc-8fea-0522aaae0236" port="22" customName="SEIBA SSH" nameFormat="CUSTOM" username="seiba" />
+      <sshConfig host="clients.oicgroup.net" id="ac3eba00-2a08-4a84-9690-e0096ffadae5" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="OIC SSH" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
