@@ -5,6 +5,8 @@
       <sshConfig host="exponentcms.org" id="21e5bc49-02e2-48ac-ae71-080e8ad5f554" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="Exponent SSH" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="seindianabaptist.org" id="ed6122f7-fe7d-47bc-8fea-0522aaae0236" port="22" customName="SEIBA SSH" nameFormat="CUSTOM" username="seiba" />
       <sshConfig host="clients.oicgroup.net" id="ac3eba00-2a08-4a84-9690-e0096ffadae5" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="OIC SSH" nameFormat="CUSTOM" />
+      <sshConfig host="exponentcms.org" id="bdf0d391-0f14-415b-8797-d2efef1a25b5" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="Exponent SSH" nameFormat="CUSTOM" />
+      <sshConfig host="clients.oicgroup.net" id="f24522f0-2b8e-407e-bf39-11a63a75983b" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="OIC SSH" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
