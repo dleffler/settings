@@ -31,6 +31,8 @@
       <sshConfig host="clients.oicgroup.net" id="eea5bb70-90c7-4f53-9672-9db7121fe798" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="OIC SSH" nameFormat="CUSTOM" />
       <sshConfig host="exponentcms.org" id="b246d376-8765-4bec-bfbe-20fe331e64c2" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="Exponent SSH" nameFormat="CUSTOM" />
       <sshConfig host="clients.oicgroup.net" id="bb39ce35-c7ec-4136-9c92-bff43eee9d86" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="OIC SSH" nameFormat="CUSTOM" />
+      <sshConfig host="exponentcms.org" id="0bed6a3c-9a26-4f01-b392-9c19435f4751" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="Exponent SSH" nameFormat="CUSTOM" />
+      <sshConfig host="clients.oicgroup.net" id="57f3d2e4-b4c0-46ba-91ff-fef56a42bb39" keyPath="O:\Users\Dave\.ssh\id_rsa" port="22" customName="OIC SSH" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
